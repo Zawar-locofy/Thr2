@@ -1,0 +1,9 @@
+.submit {
+  position: relative;
+  font-size: var(--components-input-text-size);
+  font-family: var(--components-input-text);
+  color: var(--gray-white);
+  text-align: center;
+  display: inline-block;
+  width: 203.12px;
+}
